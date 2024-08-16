@@ -1,0 +1,9 @@
+requests
+m3u8
+selenium
+pandas
+python-dotenv
+chromedriver-autoinstaller
+urllib3
+unicodecsv
+youtube_dl
